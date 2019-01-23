@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Economica');
+
+.Font {
+    font-family: 'Economica', sans-serif;
+    font-size: 28px
+}
+.Center {
+    text-align: center;
+}
