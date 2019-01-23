@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Economica');
+
+.Header-Font {
+    font-family: 'Economica', sans-serif;
+    text-align: center;
+}
+.pro-pic {
+    width: 25%
+}
