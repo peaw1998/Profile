@@ -1,0 +1,126 @@
+
+.faReact {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faReact :hover {
+    color : #00b7ff;
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faJava {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faJava:hover {
+    color: rgb(245, 103, 8);
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faJs {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faJs :hover {
+    color: rgb(241, 181, 13);
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faHtml5 {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faHtml5:hover {
+    color: rgb(241, 181, 13);  
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faCss3 {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faCss3 :hover {
+    color: rgb(13, 112, 241);
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faStack {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.faStack :hover {
+    color: rgb(241, 161, 13);
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-facebook {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-facebook :hover {
+    color : #083dec;
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-instagram {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-instagram :hover {
+    color : #ec08ec;
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-github {
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
+
+.fa-github :hover {
+    color : #3d06d4;
+    cursor : pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition:  color .5s ease;
+    transition: color .5s ease;
+}
